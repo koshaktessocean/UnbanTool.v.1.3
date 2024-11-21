@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Unban Tool /h1>
+  <h1>Unban Tool/h1>
 
   [![Downloads](https://img.shields.io/badge/Downloads-15k%2B-blue?style=for-the-badge&logo=download&logoColor=white)](#)
   [![Version](https://img.shields.io/badge/Version-2.1-green?style=for-the-badge)](#)
